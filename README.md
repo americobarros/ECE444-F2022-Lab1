@@ -4,3 +4,5 @@
 ![Screeenshot of Repo](screenshot.png)
 ### Activity 2
 ![Scrrenshot of Merge](screenshotMerge.png)
+### Activity 3
+![Scrrenshot of PR](screenshotActivity3.png)
