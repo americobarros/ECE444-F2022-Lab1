@@ -15,3 +15,9 @@ On branch 'rebase', the history is now c3 -> c4 -> c1 -> c2
 ![Screenshot of rebasing 'rebase' onto 'develop'](screenshotRebasing.png)
 ### Activity 6
 https://github.com/americobarros/ECE444-F2022-EP
+### Activity 7
+![Screenshot of rebase](screenshotActivity7.png)
+![Screenshot of new title](screenshotActivity7-2.png)
+### Activity 8
+![Screenshot of rebase](screenshotActivity8.png)
+![Screenshot of new tab](screenshotActivity8-2.png)
