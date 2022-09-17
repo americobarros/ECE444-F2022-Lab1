@@ -10,6 +10,8 @@
 https://github.com/Junhyeok-Hong/ECE444-F2022-Lab1
 ![Screenshot of changes to Team Members Repo](scAddToJunhyeok.png)
 ![Screenshot of changes to my repo](scAddByJunhyeok.png)
-## Activity 5
+### Activity 5
 On branch 'rebase', the history is now c3 -> c4 -> c1 -> c2
 ![Screenshot of rebasing 'rebase' onto 'develop'](screenshotRebasing.png)
+### Activity 6
+https://github.com/americobarros/ECE444-F2022-EP
